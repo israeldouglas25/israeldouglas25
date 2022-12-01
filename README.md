@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.al-burraq.com/blogs/wp-content/uploads/2019/12/Difference-Between-Front-End-Developer-and-Back-End-Developer.jpg" width="900" height="500"/>
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 </div>
 
 <h1 align="center"> Olá, me chamo Israel Douglas !</h1>
