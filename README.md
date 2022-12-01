@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://vietclass.vn/wp-content/uploads/2021/12/FULL-STACK-VS-FRONT-END-VS-BACKEND-DEVELOPMENT.jpg"/>
+<img src="https://www.al-burraq.com/blogs/wp-content/uploads/2019/12/Difference-Between-Front-End-Developer-and-Back-End-Developer.jpg" width="900" height="500"/>
 </div>
 
 <h1 align="center"> Olá, me chamo Israel Douglas !</h1>
